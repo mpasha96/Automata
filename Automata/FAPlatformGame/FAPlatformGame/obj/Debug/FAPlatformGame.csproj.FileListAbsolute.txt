@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\FAPlatformGame\FAPlatformGame\bin\Debug\FAPlatformGame.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\FAPlatformGame\FAPlatformGame\bin\Debug\FAPlatformGame.exe
+c:\users\admin\documents\visual studio 2015\Projects\FAPlatformGame\FAPlatformGame\bin\Debug\FAPlatformGame.pdb
+c:\users\admin\documents\visual studio 2015\Projects\FAPlatformGame\FAPlatformGame\obj\Debug\FAPlatformGame.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\FAPlatformGame\FAPlatformGame\obj\Debug\FAPlatformGame.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\FAPlatformGame\FAPlatformGame\obj\Debug\FAPlatformGame.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\FAPlatformGame\FAPlatformGame\obj\Debug\FAPlatformGame.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\FAPlatformGame\FAPlatformGame\obj\Debug\FAPlatformGame.exe
+c:\users\admin\documents\visual studio 2015\Projects\FAPlatformGame\FAPlatformGame\obj\Debug\FAPlatformGame.pdb
